@@ -56,7 +56,7 @@ new_array = []
 new_array << holiday_hash[:winter][:christmas]
 new_array.push (holiday_hash[:winter][:new_years])
 new_array.flatten
-new_array
+
 # iterate over holiday hash (winter key) we will be able to access key and values of nested hash
 end
 
